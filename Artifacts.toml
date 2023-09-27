@@ -1,0 +1,143 @@
+[[LibCURL3]]
+arch = "aarch64"
+git-tree-sha1 = "ecf74ccdaab0ad93b60a21061d6e57a816894a5d"
+os = "macos"
+
+    [[LibCURL3.download]]
+    sha256 = "12c779d51d2d9d1211ce6c1312b44865f4c0200e761e384ab42d17b3161a71b4"
+    url = "https://github.com/LexaLutyi/LibCURL3_jll.jll/releases/download/LibCURL3-v8.2.1+0/LibCURL3.v8.2.1.aarch64-apple-darwin.tar.gz"
+[[LibCURL3]]
+arch = "aarch64"
+git-tree-sha1 = "769bc15f1986a4f165e4ecee660a6bc7b21526c9"
+libc = "glibc"
+os = "linux"
+
+    [[LibCURL3.download]]
+    sha256 = "86944f9a5909d25322d1d82b7c54f1c35b7a53ef70510954623c8bcb7905b319"
+    url = "https://github.com/LexaLutyi/LibCURL3_jll.jll/releases/download/LibCURL3-v8.2.1+0/LibCURL3.v8.2.1.aarch64-linux-gnu.tar.gz"
+[[LibCURL3]]
+arch = "aarch64"
+git-tree-sha1 = "94d4fbe13b74da5f5a3f76f88f117ac114c22927"
+libc = "musl"
+os = "linux"
+
+    [[LibCURL3.download]]
+    sha256 = "caacd7555bf93ad8d38f5442069f5237b743c69ebca5652434d5a33e2901f014"
+    url = "https://github.com/LexaLutyi/LibCURL3_jll.jll/releases/download/LibCURL3-v8.2.1+0/LibCURL3.v8.2.1.aarch64-linux-musl.tar.gz"
+[[LibCURL3]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "735cfe4b5d2dfcde0962cb156137556d4a70355f"
+libc = "glibc"
+os = "linux"
+
+    [[LibCURL3.download]]
+    sha256 = "38c76f3bc040aed2413a8b36d78e00df30e13868866093ca9aef0931078d24a8"
+    url = "https://github.com/LexaLutyi/LibCURL3_jll.jll/releases/download/LibCURL3-v8.2.1+0/LibCURL3.v8.2.1.armv6l-linux-gnueabihf.tar.gz"
+[[LibCURL3]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "fd80ce0ac2f48465ebffe16d6c87e0771489d791"
+libc = "musl"
+os = "linux"
+
+    [[LibCURL3.download]]
+    sha256 = "5f096cc1fc6f6596e351276db077147bf2cb74534bfdd39851805b7545d7bf05"
+    url = "https://github.com/LexaLutyi/LibCURL3_jll.jll/releases/download/LibCURL3-v8.2.1+0/LibCURL3.v8.2.1.armv6l-linux-musleabihf.tar.gz"
+[[LibCURL3]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "03052016cfb8abb1cc85329ee490b72d4ee00dcf"
+libc = "glibc"
+os = "linux"
+
+    [[LibCURL3.download]]
+    sha256 = "6ab9a9296556cb52c1efa819ae4dbb90e6b466feff4b98616e5b1aa8f00d0533"
+    url = "https://github.com/LexaLutyi/LibCURL3_jll.jll/releases/download/LibCURL3-v8.2.1+0/LibCURL3.v8.2.1.armv7l-linux-gnueabihf.tar.gz"
+[[LibCURL3]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f14c181c16cb31d07168cdd3eb1faeffdbbc0de5"
+libc = "musl"
+os = "linux"
+
+    [[LibCURL3.download]]
+    sha256 = "8f9939d05a9f9d734cc0eff0a7c5618e138785760a2249244d0fd746d16ee4c9"
+    url = "https://github.com/LexaLutyi/LibCURL3_jll.jll/releases/download/LibCURL3-v8.2.1+0/LibCURL3.v8.2.1.armv7l-linux-musleabihf.tar.gz"
+[[LibCURL3]]
+arch = "i686"
+git-tree-sha1 = "b8584198c2b16c626e5f586ae5281181b7f4b46f"
+libc = "glibc"
+os = "linux"
+
+    [[LibCURL3.download]]
+    sha256 = "310438dca234c1a71aee8d45a5fa1e4fa8c05c01fc6c6c625698273f2c5e3205"
+    url = "https://github.com/LexaLutyi/LibCURL3_jll.jll/releases/download/LibCURL3-v8.2.1+0/LibCURL3.v8.2.1.i686-linux-gnu.tar.gz"
+[[LibCURL3]]
+arch = "i686"
+git-tree-sha1 = "05f57412630bad5bd1393ec0d1fb884b8e3385e0"
+libc = "musl"
+os = "linux"
+
+    [[LibCURL3.download]]
+    sha256 = "81ce67b6bb9e84c8885165b3a8bc3a7d3e03af31a3e44409fa83704b578061e6"
+    url = "https://github.com/LexaLutyi/LibCURL3_jll.jll/releases/download/LibCURL3-v8.2.1+0/LibCURL3.v8.2.1.i686-linux-musl.tar.gz"
+[[LibCURL3]]
+arch = "i686"
+git-tree-sha1 = "cd390788330a316763b5446bdfe69c7458497948"
+os = "windows"
+
+    [[LibCURL3.download]]
+    sha256 = "dba2078741e0cb8693b638cb52992ebd86fba8cd52fe523bad40d13f8e45eba8"
+    url = "https://github.com/LexaLutyi/LibCURL3_jll.jll/releases/download/LibCURL3-v8.2.1+0/LibCURL3.v8.2.1.i686-w64-mingw32.tar.gz"
+[[LibCURL3]]
+arch = "powerpc64le"
+git-tree-sha1 = "26a89acdf594ba603e52b872c2a3d8d7eb502538"
+libc = "glibc"
+os = "linux"
+
+    [[LibCURL3.download]]
+    sha256 = "c6999ddf42116e778bf041eccf8395caabce740f0c493cf932eeeaff58b936f9"
+    url = "https://github.com/LexaLutyi/LibCURL3_jll.jll/releases/download/LibCURL3-v8.2.1+0/LibCURL3.v8.2.1.powerpc64le-linux-gnu.tar.gz"
+[[LibCURL3]]
+arch = "x86_64"
+git-tree-sha1 = "582d0264929ef0d8a8c0e712b9e29c90ca438aea"
+os = "macos"
+
+    [[LibCURL3.download]]
+    sha256 = "e4d037e03040ea556a4159dce650b64583df2a009f25c7401322e1c51a6a31e1"
+    url = "https://github.com/LexaLutyi/LibCURL3_jll.jll/releases/download/LibCURL3-v8.2.1+0/LibCURL3.v8.2.1.x86_64-apple-darwin.tar.gz"
+[[LibCURL3]]
+arch = "x86_64"
+git-tree-sha1 = "2e0bf6ec8bf00d6630d25a9190ec340bb1e3cab4"
+libc = "glibc"
+os = "linux"
+
+    [[LibCURL3.download]]
+    sha256 = "e042c52a1467f669115258e07c5cb0afa00dd9cca5624d1ed3ae151f10fde787"
+    url = "https://github.com/LexaLutyi/LibCURL3_jll.jll/releases/download/LibCURL3-v8.2.1+0/LibCURL3.v8.2.1.x86_64-linux-gnu.tar.gz"
+[[LibCURL3]]
+arch = "x86_64"
+git-tree-sha1 = "03f4e0c96a4fc350640b38bbe20f2caff84da5d2"
+libc = "musl"
+os = "linux"
+
+    [[LibCURL3.download]]
+    sha256 = "49fd0a16116faaec8d8999f0def586aebd854de5c0bd56aa4f54a8fbcedc47c7"
+    url = "https://github.com/LexaLutyi/LibCURL3_jll.jll/releases/download/LibCURL3-v8.2.1+0/LibCURL3.v8.2.1.x86_64-linux-musl.tar.gz"
+[[LibCURL3]]
+arch = "x86_64"
+git-tree-sha1 = "71f82507bc86a164e0fa6070f4f0f0643fe09eb3"
+os = "freebsd"
+
+    [[LibCURL3.download]]
+    sha256 = "426fbaed80ec550d13c5c4c32d137dfb32246c46d2a61d83a8613684348291ca"
+    url = "https://github.com/LexaLutyi/LibCURL3_jll.jll/releases/download/LibCURL3-v8.2.1+0/LibCURL3.v8.2.1.x86_64-unknown-freebsd.tar.gz"
+[[LibCURL3]]
+arch = "x86_64"
+git-tree-sha1 = "714f662d5ee896f395ffa70d0fab45dd493e7e58"
+os = "windows"
+
+    [[LibCURL3.download]]
+    sha256 = "a30b2651a91e818a74bb423e0110af812548dd8c498a1b4fa2d2e7478f44109b"
+    url = "https://github.com/LexaLutyi/LibCURL3_jll.jll/releases/download/LibCURL3-v8.2.1+0/LibCURL3.v8.2.1.x86_64-w64-mingw32.tar.gz"
